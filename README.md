@@ -5,14 +5,14 @@
 **Research Intern** under **Prof. Manas Jyoti Kashyop**, working on **Stable Matching in Dynamic Preference Instances**, focusing on designing and analyzing algorithms for dynamic stable matching problems.
 
 **Tech Stack**:
--Python 
--C++ 
--Pandas 
--NumPy 
--Scikit-learn 
--XGBoost 
--CatBoost 
--Git
+- Python 
+- C++ 
+- Pandas 
+- NumPy 
+- Scikit-learn 
+- XGBoost 
+- CatBoost 
+- Git
 
 
 **Projects**:
