@@ -99,6 +99,5 @@
   <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/></a>&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/></a>
   <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/></a>&nbsp;&nbsp;
-<a href="https://www.audacityteam.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/audacity/audacity-original.svg" width="40" height="40" alt="Audacity"/></a>&nbsp;&nbsp;
 <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/></a>
 </p>
