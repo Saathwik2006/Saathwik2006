@@ -23,15 +23,6 @@
   Transformers · RAG · LLMs · FastAPI
 </p>
 
-<p align="center">
-  <b>Looking to Collaborate On</b><br/>
-  Machine Learning and Deep Learning projects
-</p>
-
-<p align="center">
-  <b>Looking for Help With</b><br/>
-  Computer Vision · Model Deployment
-</p>
 
 <p align="center">
   <b>Contact</b><br/>
